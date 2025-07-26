@@ -90,7 +90,7 @@ Tech Stack: `YOLOv8`, `EasyOCR`, `Label Studio`, `Streamlit`
 
 - 🎓 Bachelor's degree in Multimedia & Networking — Asia E University & Politeknik Negeri Jakarta  
 - 🎨 Former Lead 3D Animator at Brandoville; Animator at GiggleGarage, The Little Giantz; Intern at Les’ Copaque  
-- 🎙️ Experienced content creator and confident on-camera speaker  
+- 🎙️ Experienced as content creator and confident on-camera speaker  
 - 📍 Based in Jakarta, Indonesia  
 
 ---
