@@ -16,7 +16,7 @@
 ---
 
 🎥 **Creative Background Meets Data Science**  
-With over 9 years of experience in the animation and game industry, I’ve contributed to global projects such as *Warcraft Reforged*, *Ice Age 5*, *The Dragon Prince Season 4-7 *, *Rabbid Invasion Season 4*, etc. Now, I’m pursuing a career in **Data Science / Analysis / Engineering**, blending creative intuition with analytical thinking.
+With over 9 years of experience in the animation and game industry, I’ve contributed to global projects such as *Warcraft Reforged*, *Ice Age 5*, *The Dragon Prince Season 4-7*, *Rabbid Invasion Season 4*, etc. Now, I’m pursuing a career in **Data Science / Analysis / Engineering**, blending creative intuition with analytical thinking.
 
 🚀 **Hacktiv8 Full-Time Data Science Graduate**  
 Recently completed an intensive bootcamp focusing on Data Analysis, Machine Learning, Deep Learning, Data Engineering, and Data Visualization.
