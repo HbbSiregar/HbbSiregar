@@ -16,10 +16,10 @@
 ---
 
 🎥 **Creative Background Meets Data Science**  
-Saya memiliki pengalaman lebih dari 9 tahun di industri animasi dan game, pernah terlibat dalam proyek-proyek seperti *Warcraft Reforged*, *Ice Age 5*, dan *Upin & Ipin*. Kini, saya mengejar karier di bidang data sebagai **Data Scientist / Analyst / Engineer**, menggabungkan intuisi visual dengan logika analitik.
+Saya memiliki pengalaman lebih dari 9 tahun di industri animasi dan game, pernah terlibat dalam proyek-proyek seperti *Warcraft Reforged*, *Ice Age 5*, *The Dragon Prince*, *Rabbid Invasion* and etc. Kini, saya mengejar karier di bidang data sebagai **Data Scientist / Analyst / Engineer**, menggabungkan intuisi visual dengan logika analitik.
 
 🚀 **Lulusan Hacktiv8 Data Science Bootcamp**  
-Baru saja menyelesaikan bootcamp intensif dengan fokus pada Machine Learning, Data Engineering, dan Data Visualization.
+Baru saja menyelesaikan bootcamp intensif dengan fokus pada Data Analyst, Machine Learning,Deep Learning,  Data Engineering, dan Data Visualization.
 
 ---
 
@@ -44,8 +44,8 @@ Tech Stack: `YOLOv8`, `EasyOCR`, `Label Studio`, `Streamlit`
 
 - **Languages**: Python, SQL  
 - **Libraries**: Pandas, NumPy, Scikit-Learn, Seaborn, Matplotlib, SciPy, Feature-Engine  
-- **Tools**: Streamlit, PostgreSQL, BigQuery, Tableau, Kibana, VSC  
-- **Algorithms**: Regression, Clustering, Random Forest, Dimensionality Reduction  
+- **Tools**: Streamlit, PostgreSQL, BigQuery, Tableau, Kibana, Visual Studio Code  
+- **Algorithms**: Regression, Clustering, Random Forest, KNN, Decision Tree, SVM 
 - **Animation Tools**: Autodesk Maya, Blender, Adobe Premiere, Capcut
 
 ---
@@ -53,7 +53,7 @@ Tech Stack: `YOLOv8`, `EasyOCR`, `Label Studio`, `Streamlit`
 ## 👨‍💻 About Me
 
 - 🎓 Multimedia & Networking graduate from Asia E University & Politeknik Negeri Jakarta  
-- 🎨 Former 3D Animator in multiple global studios: Brandoville, GiggleGarage, Les' Copaque  
+- 🎨 Former Lead 3D Animator in Brandoville and 3D Animator on GiggleGarage and The Little Giantz also intern in Les' Copaque  
 - 📹 Passionate content creator with public speaking experience  
 - 🌍 Based in Jakarta, Indonesia  
 
