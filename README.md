@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ma’ruf Habibie Siregar</h1>
+<h1 align="center">Hi 👋, I'm Habibie</h1>
 <h3 align="center">From Animation to Data — Turning Creativity into Insight</h3>
 
 <p align="center">
