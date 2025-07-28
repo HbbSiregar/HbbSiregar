@@ -16,10 +16,11 @@
 ---
 
 🎥 **Creative Background Meets Data Science**  
-With over 9 years of experience in the animation and game industry, I’ve contributed to global projects such as *Warcraft Reforged*, *Ice Age 5*, *The Dragon Prince Season 4-7*, *Rabbid Invasion Season 4*, etc. Now, I’m pursuing a career in **Data Science / Analysis / Engineering**, blending creative intuition with analytical thinking.
+With over 9 years of experience in the animation and game industry, I’ve contributed to global projects such as *Warcraft Reforged*, *Ice Age 5*, *The Dragon Prince Season 4-7*, *Rabbid Invasion*, and more.  
+Now I’m pivoting to the data field — blending my storytelling and visual background with analytical skills as a **Data Analyst**, **Data Scientist**, and **Data Engineer**.
 
-🚀 **Hacktiv8 Full-Time Data Science Graduate**  
-Recently completed an intensive bootcamp focusing on Data Analysis, Machine Learning, Deep Learning, Data Engineering, and Data Visualization.
+🚀 **Hacktiv8 Full-Time Data Science Graduate (2025)**  
+Focused on data engineering, EDA, machine learning, deep learning, dashboarding, and end-to-end pipeline automation.
 
 ---
 
@@ -27,16 +28,20 @@ Recently completed an intensive bootcamp focusing on Data Analysis, Machine Lear
 
 ### 🔹 [StreamWise](https://github.com/HbbSiregar/StreamWise)
 > Movie recommendation system using Rotten Tomatoes dataset  
-Tech Stack: `Python`, `Pandas`, `NumPy`, `Scikit-Learn`, `Tableau`
+📌 `Python`, `Pandas`, `NumPy`, `Scikit-Learn`, `Tableau`
 
 ### 🔹 [Diabetes Early Detection](https://github.com/HbbSiregar/diabetesEearlyDetection_MODEL)
-> Predictive model for early diabetes detection (Recall: 98%)  
-Tech Stack: `Random Forest`, `Python`, `Feature-Engine`, `Streamlit`
+> ML model (Random Forest) for early detection of diabetes with 98% recall  
+📌 `Python`, `Feature-Engine`, `Scikit-Learn`, `Streamlit`, `Pickle`
+
+### 🔹 [NBA Player Preference](https://github.com/HbbSiregar/NBAPlayer_Preference)
+> Analyzed NBA stats 2018–2022 to inform scouting/trading strategies using data pipelines  
+📌 `Airflow`, `Great Expectations`, `PostgreSQL`, `Kibana`
 
 ### 🔹 [AegisLens](https://github.com/vikesaki/AegisLens)
-> Vehicle and license plate detection using object detection and OCR  
-Role: Data Analyst & Annotator  
-Tech Stack: `YOLOv8`, `EasyOCR`, `Label Studio`, `Streamlit`
+> Group project: vehicle type & license plate detection with object detection & OCR  
+📌 `YOLOv8`, `EasyOCR`, `Label Studio`, `Streamlit`  
+🎯 Role: *Data Analyst* & *Data Annotator*
 
 ---
 
@@ -64,6 +69,7 @@ Tech Stack: `YOLOv8`, `EasyOCR`, `Label Studio`, `Streamlit`
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
 </p>
 
 ### 🤖 Algorithms & Modeling
@@ -71,9 +77,8 @@ Tech Stack: `YOLOv8`, `EasyOCR`, `Label Studio`, `Streamlit`
   <img src="https://img.shields.io/badge/Regression-000000?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Random Forest-228B22?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Clustering-FFA500?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/KNN-8A2BE2?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Decision Tree-32CD32?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/SVM-800000?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dimensionality Reduction-8A2BE2?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
 ### 🎨 Animation & Creative Tools
@@ -88,9 +93,10 @@ Tech Stack: `YOLOv8`, `EasyOCR`, `Label Studio`, `Streamlit`
 
 ## 👨‍💻 About Me
 
-- 🎓 Bachelor's degree in Multimedia & Networking — Asia E University & Politeknik Negeri Jakarta  
-- 🎨 Former Lead 3D Animator at Brandoville; Animator at GiggleGarage, The Little Giantz; Intern at Les’ Copaque  
-- 🎙️ Experienced as content creator and confident on-camera speaker  
+- 🎓 Bachelor’s degree in Multimedia & Networking — Asia E University & Politeknik Negeri Jakarta  
+- 💼 Former Lead 3D Animator at Brandoville Studios  
+- 🇲🇾 Animator at GiggleGarage, The Little Giantz & Les Copaque (Internship)  
+- 🎙️ Confident public speaker and content creator  
 - 📍 Based in Jakarta, Indonesia  
 
 ---
@@ -101,4 +107,4 @@ Tech Stack: `YOLOv8`, `EasyOCR`, `Label Studio`, `Streamlit`
 
 ---
 
-> *“Creativity is intelligence having fun” – Albert Einstein*
+> *“Creativity is intelligence having fun.” – Albert Einstein*
